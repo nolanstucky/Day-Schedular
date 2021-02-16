@@ -39,7 +39,7 @@ function validateHours(){
 
     });
 };
-//refreshes the page every minute 
-setTimeout(function() {
-    location.reload();
-  }, 30000);
+// //refreshes the page every minute 
+// setTimeout(function() {
+//     location.reload();
+//   }, 30000);
