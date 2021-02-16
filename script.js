@@ -2,7 +2,7 @@
 populateDescription();
 validateHours();
 //sets the current day based on moment formated
-$("#currentDay").text(moment().format("MMMM Do YYYY, h:MM:ss a"));
+$("#currentDay").text(moment().format("MMMM Do YYYY, hh:mm a"));
 //Every save button saves the value inside description boxes to local storage with the id attached to the button
 $(".saveBtn").on("click", function(){
     let hour = $(this).attr("id");
@@ -39,3 +39,7 @@ function validateHours(){
 
     });
 };
+//refreshes the page every minute 
+setTimeout(function() {
+    location.reload();
+  }, 30000);
