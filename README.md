@@ -9,13 +9,13 @@ This is a web application powered by javascript that allows the user to write ho
 * [Questions](#questions)
 
 ## Demonstration:
-<img src="https://github.com/nolanstucky/Day-Schedular/blob/main/assets/dayplanner.JPG" alt = "work day schedular" style="width: 80%;">
+<img src="https://github.com/nolanstucky/Day-Schedular/blob/main/Assets/dayplanner.JPG" alt = "work day schedular" style="width: 80%;">
 
 ## Contributing:
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
 
-## Repository:
-https://github.com/nolanstucky/Day-Schedular
+## Deployed Link:
+https://nolanstucky.github.io/Day-Schedular/
 
 ## Questions:
 * GitHub Profile:  [nolanstucky](https://github.com/nolanstucky)
